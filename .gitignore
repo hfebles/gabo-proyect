@@ -1,0 +1,5 @@
+./vendor/
+vendor/
+.env
+resources/cache/
+app/cache/
